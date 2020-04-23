@@ -23,3 +23,4 @@ Hpothesis - Surfable waves in Vancouver may be formed by:
 ## Spots
 
 - [Dundarave Beach](https://www.google.com/maps/search/Dundarave+Beach/@49.3328998,-123.1854346,17z/data=!3m1!4b1)
+- [Ambleside beach](https://www.google.com/maps/search/ambleside+beach/@49.3229007,-123.1501684,17z/data=!3m1!4b1)
