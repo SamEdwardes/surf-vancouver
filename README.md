@@ -2,6 +2,12 @@
 
 A tool to help forecasting surf in Vancouver.
 
+Hpothesis - Surfable waves in Vancouver may be formed by:
+
+- a strong west wind
+- a sustained west wind
+- incoming tides could help generate more wave power [surfline.com](https://www.surfline.com/surf-news/tides-and-surfing/1107)
+
 ## Data Sources
 
 - [windfinder - Straight of Georgia](https://www.windfinder.com/#10/49.3000/-123.1114)
