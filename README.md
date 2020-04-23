@@ -16,7 +16,7 @@ Hpothesis - Surfable waves in Vancouver may be formed by:
 
 ## Media
 
-- [Surfing in West Vancouver - North Shore News](https://www.nsnews.com/community/surfers-ride-rare-waves-in-windy-west-vancouver-1.24051815)
+- [Surfing in West Vancouver - North Shore News (Jan 11, 2020)](https://www.nsnews.com/community/surfers-ride-rare-waves-in-windy-west-vancouver-1.24051815)
 - [Mike Berard - Blog Post](https://mountainculturegroup.com/surfing-vancouver/)
 - [Mike Berard - YouTube Video](https://www.youtube.com/watch?v=yOMhq4A58xQ&feature=emb_logo)
 
