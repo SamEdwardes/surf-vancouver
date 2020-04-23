@@ -12,7 +12,7 @@ Hpothesis - Surfable waves in Vancouver may be formed by:
 
 - [windfinder - Straight of Georgia](https://www.windfinder.com/#10/49.3000/-123.1114)
 - [Halibut Bank Buoy](https://weather.gc.ca/marine/weatherConditions-currentConditions_e.html?mapID=02&siteID=14305&stationID=46146)
--[Burrard Inlet Webcam](http://katkam.ca/)
+- [Burrard Inlet Webcam](http://katkam.ca/)
 
 ## Media
 
